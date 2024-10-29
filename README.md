@@ -21,7 +21,7 @@ Para executar o simulador de piano no seu próprio computador, siga os passos ab
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/simulador-de-piano.git
+   git clone https://github.com/IkkyLuiz/Piano_Online.git
    ```
 
 2. **Navegue até a pasta do projeto**:
